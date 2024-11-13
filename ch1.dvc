@@ -1,0 +1,6 @@
+outs:
+- md5: 0d7d348fcd0ab6b949055175409f2634.dir
+  size: 3569343
+  nfiles: 7
+  hash: md5
+  path: ch1

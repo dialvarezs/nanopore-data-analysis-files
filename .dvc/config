@@ -1,0 +1,4 @@
+[core]
+    remote = http
+['remote "http"']
+    url = https://catg-dvc-nkbxe68n.nyc3.cdn.digitaloceanspaces.com/ont-data-analysis-files
