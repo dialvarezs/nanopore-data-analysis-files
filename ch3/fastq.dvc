@@ -1,0 +1,6 @@
+outs:
+- md5: 585d74a5605da357db53d83d92ccdf65.dir
+  size: 540263875
+  nfiles: 3
+  hash: md5
+  path: fastq
