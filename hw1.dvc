@@ -1,0 +1,6 @@
+outs:
+- md5: 1b85d4dc3050a64b0179eea5da384632.dir
+  size: 1310368911
+  nfiles: 6
+  hash: md5
+  path: hw1
