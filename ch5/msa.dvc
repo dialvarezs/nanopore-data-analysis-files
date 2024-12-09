@@ -1,0 +1,6 @@
+outs:
+- md5: 3e20695e760b356db96b51ff99b54b50.dir
+  size: 993742
+  nfiles: 2
+  hash: md5
+  path: msa
