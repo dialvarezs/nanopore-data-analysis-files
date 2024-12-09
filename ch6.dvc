@@ -1,0 +1,6 @@
+outs:
+- md5: 2c3e5a3492a245fe43e1cd91c982042a.dir
+  size: 4480730
+  nfiles: 2
+  hash: md5
+  path: ch6
