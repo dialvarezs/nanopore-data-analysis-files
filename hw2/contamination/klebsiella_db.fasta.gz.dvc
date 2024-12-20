@@ -1,0 +1,5 @@
+outs:
+- md5: 1f9971e7c5e8c02d146a68b102d37ba3
+  size: 1956602105
+  hash: md5
+  path: klebsiella_db.fasta.gz
